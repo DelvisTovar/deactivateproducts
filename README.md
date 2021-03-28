@@ -1,4 +1,4 @@
-#deactivateproducts
+## deactivateproducts
 
 - Just download and compress the deactivateproducts folder and upload the module in the module manager of your store
 
@@ -6,7 +6,7 @@
 
 - Thanks for viewing the repository.
 
-#deactivateproducts
+## deactivateproducts
 
 - Simplemente descargue y comprima la carpeta deactivateproducts y cargue el módulo en el administrador de módulos de su tienda
 
